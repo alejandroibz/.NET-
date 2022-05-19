@@ -1,0 +1,15 @@
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\bin\Debug\net6.0\clase5-ejercicio.exe
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\bin\Debug\net6.0\clase5-ejercicio.deps.json
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\bin\Debug\net6.0\clase5-ejercicio.runtimeconfig.json
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\bin\Debug\net6.0\clase5-ejercicio.dll
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\bin\Debug\net6.0\clase5-ejercicio.pdb
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\obj\Debug\net6.0\clase5-ejercicio.csproj.AssemblyReference.cache
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\obj\Debug\net6.0\clase5-ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\obj\Debug\net6.0\clase5-ejercicio.AssemblyInfoInputs.cache
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\obj\Debug\net6.0\clase5-ejercicio.AssemblyInfo.cs
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\obj\Debug\net6.0\clase5-ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\obj\Debug\net6.0\clase5-ejercicio.dll
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\obj\Debug\net6.0\refint\clase5-ejercicio.dll
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\obj\Debug\net6.0\clase5-ejercicio.pdb
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\obj\Debug\net6.0\clase5-ejercicio.genruntimeconfig.cache
+C:\Users\coder\Documents\.NET\clase5-ejercicio\clase5-ejercicio\obj\Debug\net6.0\ref\clase5-ejercicio.dll
